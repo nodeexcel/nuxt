@@ -73,3 +73,5 @@ Temporary Items
 
 fixtures-temp
 .pnpm-store
+temp_auto_push.bat
+temp_interactive_push.bat
